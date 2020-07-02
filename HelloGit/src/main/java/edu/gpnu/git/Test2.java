@@ -10,5 +10,6 @@ public class Test2 {
         System.out.println("Hello Test!");
         System.out.println("更新1");
         System.out.println("更新2");
+        System.out.println("更新3");
     }
 }
