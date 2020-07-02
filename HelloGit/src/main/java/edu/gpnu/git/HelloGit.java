@@ -8,5 +8,6 @@ package edu.gpnu.git;
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("Hello Test!!");
+        System.out.println("更新5!!");
     }
 }
