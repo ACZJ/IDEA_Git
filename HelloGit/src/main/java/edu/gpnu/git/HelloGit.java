@@ -3,11 +3,11 @@ package edu.gpnu.git;
 /**
  * @version 1.0
  * @Author:Cao Zhijian
- * @DATE:2020/7/3 0003 0:04
+ * @DATE:2020/7/2 0002 22:56
  */
 public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("Hello Test!!");
-        System.out.println("更新5!!");
+        System.out.println("Hello Git!");
+        System.out.println("创建分支");
     }
 }
